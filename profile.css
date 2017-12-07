@@ -20,7 +20,7 @@ clear:both;
 
 .head1 {
 width:100%;
-background-color:#A2DCBC;
+background-color:#000000;
 }
 
 .t1 {
@@ -70,7 +70,7 @@ padding:40 10px;
 }
 
 .head2 {
-background-color:#FF3F4B;
+background-color:#940D0D;
 
 }
 
@@ -84,10 +84,10 @@ text-align:center;
 }
 
 .head3 {
-background-color:#EE3FFF;
+background-color:#8D0F80;
 }
 .head4 {
-background-color:#3F65FF;
+background-color:#044392;
 }
 
 .res1{
@@ -108,16 +108,16 @@ padding:20px 10px;
 }
 
 .head5 {
-background-color:#25D107;
+background-color:#049E0E;
 }
 .head6 {
-background-color:#AB3FFF;
+background-color:#89049E;
 }
 .head7 {
-background-color:#E2AC05;
+background-color:#9E6D04;
 }
 .head8 {
-background-color:#FF3F3F;
+background-color:#9E0435;
 }
 
 .head9 {
