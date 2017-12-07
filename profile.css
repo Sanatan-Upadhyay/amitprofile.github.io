@@ -1,0 +1,121 @@
+html {
+box-sizing:border-box;
+-webkit-text-size-adjust:100%;
+}
+
+*,*:before,*:after {
+box-sizing:border-box;
+}
+
+body {
+margin:0;
+font-family:"Comic Sans Ms";
+}
+
+.cont:before,.cont:after {
+content:"";
+display:table;
+clear:both;
+}
+
+.head1 {
+width:100%;
+background-color:#A2DCBC;
+}
+
+.t1 {
+width:100%;
+color:#FFFFFF;
+text-align:center;
+padding:10px;
+}
+
+.sp1 {
+font-family:Raleway,"Comic Sans Ms";
+font-size:18px;
+}
+
+.sp2 {
+font-size:15px;
+}
+
+.im1 {
+width:150px;
+margin-left:auto;
+margin-right:auto;
+padding-bottom:30px;
+}
+
+img {
+width:100%;
+border-radius:200px;
+}
+
+.st1 {
+cursor:pointer;
+width:100%;
+text-align:center;
+color:#E5DFE3;
+font-size:25px;
+padding:60px 20px;
+-webkit-user-select:none;
+}
+
+.per1 {
+text-align:center;	
+width:100%;
+color:black;
+background-color:#FFFFFF;
+padding:40 10px;
+}
+
+.head2 {
+background-color:#FF3F4B;
+
+}
+
+.det1 {
+display:none;	
+color:black;
+background-color:#FAF4F4;
+padding:20px 10px;
+font-size:18px;
+text-align:center;
+}
+
+.head3 {
+background-color:#EE3FFF;
+}
+.head4 {
+background-color:#3F65FF;
+}
+
+.res1{
+display:none;
+overflow-x:auto;
+}
+
+.tab1 {
+text-align:center;
+border-collapse:collapse;
+border-spacing:0;
+width:100%;
+display:table;
+}
+
+.tab1 td  {
+padding:20px 10px;
+}
+
+.head5 {
+background-color:#3FFF70;
+}
+.head6 {
+background-color:#AB3FFF;
+}
+.head7 {
+background-color:#FFA83F;
+}
+.head8 {
+background-color:#FF3F3F;
+}
