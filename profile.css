@@ -20,6 +20,7 @@ clear:both;
 
 .head1 {
 width:100%;
+min-height:100vh;
 background-color:#000000;
 }
 
