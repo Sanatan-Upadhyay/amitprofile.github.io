@@ -56,7 +56,7 @@ cursor:pointer;
 width:100%;
 text-align:center;
 color:#E5DFE3;
-font-size:25px;
+font-size:200%;
 padding:60px 20px;
 -webkit-user-select:none;
 }
@@ -75,10 +75,10 @@ background-color:#FF3F4B;
 }
 
 .det1 {
-display:none;	
+display:block;	
 color:black;
 background-color:#FAF4F4;
-padding:20px 10px;
+padding:40px 10px;
 font-size:18px;
 text-align:center;
 }
@@ -91,7 +91,7 @@ background-color:#3F65FF;
 }
 
 .res1{
-display:none;
+display:display;
 overflow-x:auto;
 }
 
@@ -108,14 +108,22 @@ padding:20px 10px;
 }
 
 .head5 {
-background-color:#3FFF70;
+background-color:#25D107;
 }
 .head6 {
 background-color:#AB3FFF;
 }
 .head7 {
-background-color:#FFA83F;
+background-color:#E2AC05;
 }
 .head8 {
 background-color:#FF3F3F;
+}
+
+.head9 {
+text-align:center;
+font-size:40px;
+padding:60px 10px;
+color:#E5DFE3;
+background-color:#0B0505;
 }
