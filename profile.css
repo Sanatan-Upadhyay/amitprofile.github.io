@@ -22,6 +22,10 @@ clear:both;
 width:100%;
 min-height:100vh;
 background-color:#000000;
+background-image:url("amit.jpg");
+background-repeat:no-repeat;
+background-position:center;
+background-size:70% 100%;
 }
 
 .t1 {
@@ -32,12 +36,11 @@ padding:10px;
 }
 
 .sp1 {
-font-family:Raleway,"Comic Sans Ms";
-font-size:18px;
+font-size:350%;
 }
 
 .sp2 {
-font-size:15px;
+font-size:150%;
 }
 
 .im1 {
